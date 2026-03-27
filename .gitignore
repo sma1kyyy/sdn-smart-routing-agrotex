@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+.venv/
+mininet.log
+onos.log
+/screens/
